@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-xs!xkv+^3oms$uu#f-1+ef6)s!hl@$&gu6xqx64p2i664^if+r'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['cyber-world-india.herokuapp.com', '127.0.0.1']
 
@@ -92,9 +92,16 @@ DATABASES = {
         'NAME': 'Cyber World',
         'USER': 'postgres',
         'PASSWORD': 'Padma815$',
-        'HOST': 'localhost'
+        'HOST': 'localhost',
+        'PORT': '5432'
     }
 }
+
+
+
+import dj_database_url
+db_from_env = dj_database_url.config(conn_max_age=600, ssl_require=True)
+DATABASES['default'].update(db_from_env)
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
