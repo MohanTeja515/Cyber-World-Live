@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-xs!xkv+^3oms$uu#f-1+ef6)s!hl@$&gu6xqx64p2i664^if+r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['cyber-world-india.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['thecyberworld.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
@@ -89,10 +89,10 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'Cyber World',
-        'USER': 'postgres',
-        'PASSWORD': 'Padma815$',
-        'HOST': 'localhost',
+        'NAME': 'main_database',
+        'USER': 'cyber_world',
+        'PASSWORD': 'Swechha329$',
+        'HOST': 'mohanteja.crac6mqcqv7t.us-west-2.rds.amazonaws.com',
         'PORT': '5432'
     }
 }
