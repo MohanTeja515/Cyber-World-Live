@@ -1,0 +1,240 @@
+[
+{
+  "model": "sessions.session",
+  "pk": "gyddcxwhb8f2e6bon63vb4o7khjfw27f",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBgKKBL9z0DmSmMVA0kpV0Z765NutDtf-_9l4i4rSVuPS9xTuIitDj9boTTI9cdpDvWW5NTq-syk9wVedAux5by83q4fwcFe_nWNgMrcNa4AEGxMhnOyAM6Bu-sYtTkCciycsEPhiCw1gkSgdc-GSveH8HONwk:1nYVEd:SlK_AEs1Ww_ouW2wD55ckQLBISFjgNGj3kOQmxSPhLw",
+    "expire_date": "2022-04-10T15:55:19.748Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "mwdfs5cjkljqoksrv5q2b0fnpdgqxd97",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBgKKBL9z0DmSmMVA0kpV0Z765NutDtf-_9l4i4rSVuPS9xTuIitDj9boTTI9cdpDvWW5NTq-syk9wVedAux5by83q4fwcFe_nWNgMrcNa4AEGxMhnOyAM6Bu-sYtTkCciycsEPhiCw1gkSgdc-GSveH8HONwk:1nZ8TO:TBbswnw2i3YcXNTOjYrFrb3dR-Y2P6rvff24h7fjmnY",
+    "expire_date": "2022-04-12T09:49:10.879Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "nlxysz338khc103tejivwwfihxiokes1",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBgKKBL9z0DmSmMVA0kpV0Z765NutDtf-_9l4i4rSVuPS9xTuIitDj9boTTI9cdpDvWW5NTq-syk9wVedAux5by83q4fwcFe_nWNgMrcNa4AEGxMhnOyAM6Bu-sYtTkCciycsEPhiCw1gkSgdc-GSveH8HONwk:1nZ1Qo:QgGtJALAIDzE7FNMdhAW_BQYDZt4vENlI1xIOk2NglE",
+    "expire_date": "2022-04-12T02:18:02.323Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zi2ch2co0oksw6au5rv4981mv9n6nu4c",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBgKKBL9z0DmSmMVA0kpV0Z765NutDtf-_9l4i4rSVuPS9xTuIitDj9boTTI9cdpDvWW5NTq-syk9wVedAux5by83q4fwcFe_nWNgMrcNa4AEGxMhnOyAM6Bu-sYtTkCciycsEPhiCw1gkSgdc-GSveH8HONwk:1ncOSA:kOZnlRoEdjI0feqXu0jD_px-I9u_2oE30E-oyJhSDys",
+    "expire_date": "2022-04-21T09:29:22.291Z"
+  }
+},
+{
+  "model": "accounts.customabstractuser",
+  "fields": {
+    "password": "pbkdf2_sha256$320000$n6jTrQumMuHS3ZNRv23sRL$4L5ZgGT2q+HubDzi91qElgD0xUdKxLCssaNeqMAkyxA=",
+    "last_login": "2022-04-07T09:29:22.283Z",
+    "is_superuser": true,
+    "username": "Cyber World",
+    "first_name": "",
+    "last_name": "",
+    "email": "cyberworldofficialsite@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "points": 50,
+    "date_joined": "2022-03-27T15:53:53.367Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customabstractuser",
+  "fields": {
+    "password": "pbkdf2_sha256$320000$JmaANNq8DyzuLGIyjoAaup$aGzDRop80BXeMELdrTvvUrUOAEOXb1gCRLRE706baoA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "z5242057",
+    "first_name": "",
+    "last_name": "",
+    "email": "z5242057@ad.unsw.edu.au",
+    "is_staff": false,
+    "is_active": true,
+    "points": 50,
+    "date_joined": "2022-03-27T15:59:44.538Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "modules.module",
+  "pk": 1,
+  "fields": {
+    "module_title": "firewall",
+    "module_slug": "firewall",
+    "module_photos": "photos/2022/04/02/main_photo_gFukalJ.png",
+    "module_description": "<div>The only system that is truly secure&nbsp;</div><div><br></div><div>This Module teaches in depth concepts on how Firewalls, IDS/IPS and Honeypots work with hands on experience with labs.</div>",
+    "module_content": "<div><ul type=\"disc\">\r\n <li class=\"MsoNormal\" style=\"line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\r\n     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-AU\">Understanding\r\n     IDS, Firewall, and Honeypot Concepts<o:p></o:p></span></li>\r\n <li class=\"MsoNormal\" style=\"line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\r\n     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-AU\">IDS,\r\n     Firewall and Honeypot Solutions<o:p></o:p></span></li>\r\n <li class=\"MsoNormal\" style=\"line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\r\n     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-AU\">Understanding\r\n     different Techniques to Bypass IDS<o:p></o:p></span></li>\r\n <li class=\"MsoNormal\" style=\"line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\r\n     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-AU\">Understanding\r\n     different Techniques to Bypass Firewalls<o:p></o:p></span></li>\r\n <li class=\"MsoNormal\" style=\"line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\r\n     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-AU\">IDS/Firewall\r\n     Evading Tools<o:p></o:p></span></li>\r\n <li class=\"MsoNormal\" style=\"line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\r\n     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-AU\">Understanding\r\n     different Techniques to detect Honeypots<o:p></o:p></span></li>\r\n <li class=\"MsoNormal\" style=\"line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\r\n     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-AU\">IDS/Firewall\r\n     Evasion Countermeasures<o:p></o:p></span></li>\r\n <li class=\"MsoNormal\" style=\"line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\r\n     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-AU\">Overview\r\n     of IDS and Firewall Penetration Testing<o:p></o:p></span></li>\r\n</ul></div>",
+    "module_level": 12,
+    "module_difficulty": "Easy",
+    "module_area": "Ethical Hacking",
+    "module_sections": 8,
+    "module_points_add": 80,
+    "module_points_minus": 50,
+    "module_date_created": "2022-03-28T21:12:08Z"
+  }
+},
+{
+  "model": "modules.module",
+  "pk": 2,
+  "fields": {
+    "module_title": "system hacking",
+    "module_slug": "system-hacking-1",
+    "module_photos": "photos/2022/04/07/main_photo_tD285GK.png",
+    "module_description": "<p>System hacking is the process of trying to compromise the target system\r\nwith the help of the information we collect from the pre-attack phases\r\n(Footprinting and scanning).<br></p>",
+    "module_content": "<p>Overview of CEH Hacking Methodology</p><p><span style=\"font-size: 1rem;\">Understanding&nbsp;</span>Techniques to Gain Access to the System</p><p>Understanding Privilege Escalation Techniques</p><p>Understanding Techniques to create and Maintain Remote Access to the System</p><p>Overview of Different Types of Rootkits</p><p>Overview of Steganography and Steganalysis Techniques</p><p>Understanding Techniques to Hide the Evidence of Compromise</p><p>Overview of System Hacking Penetration Testing</p>",
+    "module_level": 6,
+    "module_difficulty": "Hard",
+    "module_area": "Ethical Hacking",
+    "module_sections": 6,
+    "module_points_add": 100,
+    "module_points_minus": 60,
+    "module_date_created": "2022-03-30T16:08:28Z"
+  }
+},
+{
+  "model": "modules.module",
+  "pk": 3,
+  "fields": {
+    "module_title": "session hijacking",
+    "module_slug": "session-hijacking-1",
+    "module_photos": "photos/2022/04/07/main_photo_fEulFU0.png",
+    "module_description": "<p>A session stores information (in variables) to be used across multiple\r\npages when a user logs into this online account. Unlike cookies, this\r\ninformation is not stored on the user’s computer. Typically maintained by the\r\nserver, and created on the first request or after an authentication process. The\r\nsession-id is exchanged between a web browser and the server on every request. Hijacking this session id and gain access is called Session Hijacking<br></p>",
+    "module_content": "<p>Understanding Session Hijacking Concepts</p><p>Understanding Application Level Session Hijacking</p><p>Understanding Application Level Session Hijacking</p><p>Overview of Session Hijacking Tools</p><p>Understanding Different Session Hijacking Countermeasures</p><p>Overview of Session Hijacking Penetration Testing</p>",
+    "module_level": 8,
+    "module_difficulty": "Intermediate",
+    "module_area": "Ethical Hacking",
+    "module_sections": 6,
+    "module_points_add": 100,
+    "module_points_minus": 50,
+    "module_date_created": "2022-03-31T14:58:41Z"
+  }
+},
+{
+  "model": "modules.module",
+  "pk": 5,
+  "fields": {
+    "module_title": "introduction to hacking",
+    "module_slug": "introduction-to-hacking-1",
+    "module_photos": "photos/2022/04/07/main_photo_HDn8YdH.png",
+    "module_description": "<p><font color=\"#202124\" face=\"arial, sans-serif\">Ethical hacking is a process of finding vulnerabilities and loopholes in a computer system or a software by taking taking permission from an organization or an individual.</font></p><p><font color=\"#202124\" face=\"arial, sans-serif\">Here, In this module, we are going to learn the basic concepts of Ethical Hacking</font></p><p><br></p>",
+    "module_content": "<p>This module teaches about the following</p><ul><li>Hacking &amp; Ethical Hacking</li><li>Hacker &amp; Ethical Hacker</li><li>Types of Hackers</li><li>Why Ethical Hacking is Necessary</li><li>Steps to Perform Ethical Hacking</li><li>Terminology</li><li>What is Information Security</li><li>Elements of Information Security</li><li>The Security, Functionality and Usability Triangle</li><li>IP Tracing &amp; IP Spoofing</li><li>VPN, VPS &amp;&nbsp;Proxy&nbsp;</li><li>Requirements to run Parrot Security OS on the Host machine<br></li></ul>",
+    "module_level": 1,
+    "module_difficulty": "Easy",
+    "module_area": "Ethical Hacking",
+    "module_sections": 3,
+    "module_points_add": 150,
+    "module_points_minus": 50,
+    "module_date_created": "2022-04-05T12:57:15Z"
+  }
+},
+{
+  "model": "modules.module",
+  "pk": 6,
+  "fields": {
+    "module_title": "footprinting",
+    "module_slug": "footprinting",
+    "module_photos": "photos/2022/04/07/main_photo_mnWcI1B.png",
+    "module_description": "<p>Footprinting is a process finding the available information about the target by using various techniques.</p>",
+    "module_content": "<ul><li>Footprinting &amp; Why perform Footprinting</li><li>Terminology</li><li>What kind of information is needed</li><li>How to perform Footprinting</li><li>Various Techniques</li><li>Domain and sub domain</li><li>Countermeasures<br></li></ul>",
+    "module_level": 2,
+    "module_difficulty": "Easy",
+    "module_area": "Ethical Hacking",
+    "module_sections": 3,
+    "module_points_add": 225,
+    "module_points_minus": 90,
+    "module_date_created": "2022-04-05T17:24:36Z"
+  }
+},
+{
+  "model": "modules.module",
+  "pk": 7,
+  "fields": {
+    "module_title": "network scaning",
+    "module_slug": "network-scaning",
+    "module_photos": "photos/2022/04/07/main_photo_BXRKBC2.png",
+    "module_description": "<p>This Module will give brief introduction of scanning networks through various tools like Nmap and scanning various ports and IPs in a network</p>",
+    "module_content": "<ul><li>Scanning &amp;&nbsp;Types of Scanning</li><li>Network Scanning\r\n</li><li>What Are Ports and Port Numbers</li><li>Port Scanning</li><li>ICMP, TCP and UDP</li><li>TCP COMMUNICATION FLAGS</li><li>Types of Port Scanning Techniques&nbsp;</li></ul>",
+    "module_level": 3,
+    "module_difficulty": "Intermediate",
+    "module_area": "Ethical Hacking",
+    "module_sections": 4,
+    "module_points_add": 200,
+    "module_points_minus": 80,
+    "module_date_created": "2022-04-05T17:47:37Z"
+  }
+},
+{
+  "model": "modules.module",
+  "pk": 8,
+  "fields": {
+    "module_title": "hacking web servers",
+    "module_slug": "hacking-web-servers",
+    "module_photos": "photos/2022/04/07/main_photo_zskBu38.png",
+    "module_description": "<p>This Module will give us a brief look at the server side attacks</p>",
+    "module_content": "<ul><li style=\"margin-top: 4.3pt; text-align: justify;\">Web Servers and how it works.</li><li style=\"margin-top: 4.3pt; text-align: justify;\">List of Popular web servers</li><li style=\"margin-top: 4.3pt; text-align: justify;\">Types of attacks possible on Web Servers and its impact</li><li style=\"margin-top: 4.3pt; text-align: justify;\">Identify vulnerabilities on Web Servers</li><li style=\"margin-top: 4.3pt; text-align: justify;\">Status codes</li><li style=\"margin-top: 4.3pt; text-align: justify;\">Countermeasures</li></ul><h2 style=\"margin-top:4.3pt;text-align:justify\"><span lang=\"EN-US\"><o:p></o:p></span></h2>",
+    "module_level": 13,
+    "module_difficulty": "Hard",
+    "module_area": "Ethical Hacking",
+    "module_sections": 2,
+    "module_points_add": 120,
+    "module_points_minus": 75,
+    "module_date_created": "2022-04-06T19:27:08Z"
+  }
+},
+{
+  "model": "modules.module",
+  "pk": 9,
+  "fields": {
+    "module_title": "hacking web applications",
+    "module_slug": "hacking-web-applications-1",
+    "module_photos": "photos/2022/04/07/main_photo_ledIMAD.png",
+    "module_description": "<p>This Module will give a required theory part for hacking web applications</p>",
+    "module_content": "<ul><li>Web Application and Types</li><li>How Web works</li><li>OWASP</li><li>Parameter Tampering</li><li>XSS attack</li><li>Command Injection</li><li>Countermeasures</li></ul>",
+    "module_level": 14,
+    "module_difficulty": "Intermediate",
+    "module_area": "Ethical Hacking",
+    "module_sections": 2,
+    "module_points_add": 200,
+    "module_points_minus": 100,
+    "module_date_created": "2022-04-06T20:29:11Z"
+  }
+},
+{
+  "model": "modules.module",
+  "pk": 10,
+  "fields": {
+    "module_title": "sql injection",
+    "module_slug": "sql-injection-1",
+    "module_photos": "photos/2022/04/07/main_photo.png",
+    "module_description": "<p>SQL injection is top vulnerability in OWASP top 10. In this module, we are going to look at the tip and techniques to do SQL Injection</p>",
+    "module_content": "<ul><li>SQL</li><li>Databases</li><li>Web server vs Database server</li><li>SQL Injection and its types</li><li>Authentication bypass</li><li>Countermeasures</li></ul>",
+    "module_level": 15,
+    "module_difficulty": "Intermediate",
+    "module_area": "Ethical Hacking",
+    "module_sections": 2,
+    "module_points_add": 100,
+    "module_points_minus": 50,
+    "module_date_created": "2022-04-06T20:45:40Z"
+  }
+},
+{
+  "model": "modules.topic",
+  "pk": 2,
+  "fields": {
+    "module": 1,
+    "topic_title": "Firewall, IDS/IPS and Honeypot Concepts",
+    "topic_slug": "firewall-idsips-and-honeypot-concepts-1",
+    "topic_description": "<p>This Module Describes about Firewalls, IDS/IPS and Honeypot concepts in depth by teaching how they work and definitions and types of each devices and what are their uses in real network system.</p><p><img src=\"/media/django-summernote/2022-03-30/ca509827-8d95-4101-a84c-212d632036ce.png\" style=\"width: 698px;\"><br></p>",
+    "topic_content": 
